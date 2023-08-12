@@ -1,1 +1,1 @@
-worker: bash fifthon.py
+worker: bash sython.py
