@@ -80,7 +80,7 @@ sython1.start()
 
 c = requests.session()
 
-bot_username = '@EOOBOT'
+bot_username = '@EEOBOT'
 
 bot_usernamee = '@A_MAN9300BOT'
 
@@ -1944,7 +1944,7 @@ async def OwnerStart(event):
 
         
 
-• @EOOBOT - `/pt1 + عدد النقاط `
+• @EEOBOT - `/pt1 + عدد النقاط `
 
 • @A_MAN9300BOT - `/pt2 + عدد النقاط`
 
@@ -1968,7 +1968,7 @@ async def OwnerStart(event):
 
         order = await event.reply("""**مرحبا في قسم معلومات الحسابات 
 
-• @EOOBOT - `/npoint1`
+• @EEOBOT - `/npoint1`
 
 • @A_MAN9300BOT - `/npoint2`
 
